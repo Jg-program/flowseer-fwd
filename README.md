@@ -35,7 +35,7 @@ Start ONOS using the following command
 onos-buck run onos-local
 ```
 
-For more options refer to this link [https://wiki.onosproject.org/display/ONOS/Development+Workflow+Options](https://wiki.onosproject.org/display/ONOS/Development+Workflow+).
+For more options refer to this link [https://wiki.onosproject.org/display/ONOS/Development+Workflow+Options](https://wiki.onosproject.org/display/ONOS/Development+Workflow+Options).
 
 Since FlowSeer is a part of the Reactive Forwarding App, which itself is a part of ONOS
 controller, we first need to log into the ONOS CLI console. The following command does
