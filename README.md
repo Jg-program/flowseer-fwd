@@ -24,6 +24,7 @@ rm fwd -d -r
 Step 2: Download FlowSeer App from Github.
 
 ```
+cd ~/onos/apps
 git clone https://github.com/stainleebakhla/flowseer-fwd.git fwd
 ```
 
